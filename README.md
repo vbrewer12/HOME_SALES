@@ -25,7 +25,6 @@ Perform the necessary calculations and then create a high-level snapshot of the 
 
     Rename the Home_Sales_starter_code.ipynb file as Home_Sales.ipynb.
     Import the necessary PySpark SQL functions for this assignment.
-    Read the home_sales_revised.csv from the provided AWS S3 bucket location into a PySpark DataFrame.
     Create a temporary table called home_sales.
     Answer the following questions using SparkSQL:
         What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
