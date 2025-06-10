@@ -23,7 +23,7 @@ District Summary
 
 Perform the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame.
 
-    Rename the Home_Sales_starter_code.ipynb file as Home_Sales.ipynb.
+    Rename the Home_Sales_starter_code.ipynb file as Home_Sales_Solution.ipynb.
     Import the necessary PySpark SQL functions for this assignment.
     Create a temporary table called home_sales.
     Answer the following questions using SparkSQL:
@@ -40,3 +40,4 @@ Perform the necessary calculations and then create a high-level snapshot of the 
     Uncache the home_sales temporary table.
     Verify that the home_sales temporary table is uncached using PySpark.
     Download your Home_Sales.ipynb file and upload it into your "Home_Sales" GitHub repository.
+
